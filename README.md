@@ -28,3 +28,18 @@ Por que isso protege?
 
 Quando usamos o ?, o driver do banco de dados trata a entrada do usuário estritamente como um dado (texto) e nunca como um comando. Se um usuário digitar algo como '; DROP TABLE pessoa;--, o banco de dados simplesmente salvará esse texto literalmente no campo de nome, sem nunca executar o comando de exclusão.
 
+
+2. Prints do Projeto em Funcionamento
+   
+
+A. Tela Principal 
+
+
+B. Formulário de Cadastro 
+
+
+C. Funcionalidade de Edição
+
+
+D. Demonstração de Exclusão
+
