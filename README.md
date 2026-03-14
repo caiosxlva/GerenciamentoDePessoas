@@ -33,8 +33,8 @@ Quando usamos o ?, o driver do banco de dados trata a entrada do usuário estrit
    
 
 A. Tela Principal
-(<Tela Inicial - 1.png>)
-(<Tela Inicial - 2.png>)
+
+
 
 
 B. Formulário de Cadastro 
