@@ -32,7 +32,9 @@ Quando usamos o ?, o driver do banco de dados trata a entrada do usuário estrit
 2. Prints do Projeto em Funcionamento
    
 
-A. Tela Principal 
+A. Tela Principal
+(<Tela Inicial - 1.png>)
+(<Tela Inicial - 2.png>)
 
 
 B. Formulário de Cadastro 
