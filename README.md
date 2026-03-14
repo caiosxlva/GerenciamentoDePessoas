@@ -32,16 +32,19 @@ Quando usamos o ?, o driver do banco de dados trata a entrada do usuário estrit
 2. Prints do Projeto em Funcionamento
    
 
-A. Tela Principal
+A. Formulário de Cadastro 
 
+![image alt](https://github.com/caiosxlva/GerenciamentoDePessoas/blob/d6be21ce8bd1bee532c4047f9c47f7ba10fcecb5/Tela%20de%20Cadastro.png)
 
+B. Dados dos Cadastros
 
-
-B. Formulário de Cadastro 
+![image alt](https://github.com/caiosxlva/GerenciamentoDePessoas/blob/d6be21ce8bd1bee532c4047f9c47f7ba10fcecb5/Tela%20dos%20Dados.png)
+![image alt](https://github.com/caiosxlva/GerenciamentoDePessoas/blob/d6be21ce8bd1bee532c4047f9c47f7ba10fcecb5/Tela%20dos%20Dados%20-%202.png)
 
 
 C. Funcionalidade de Edição
-
+![image alt](https://github.com/caiosxlva/GerenciamentoDePessoas/blob/d6be21ce8bd1bee532c4047f9c47f7ba10fcecb5/Tela%20dos%20Dados%20-%20Editados.png)
+![image alt](https://github.com/caiosxlva/GerenciamentoDePessoas/blob/d6be21ce8bd1bee532c4047f9c47f7ba10fcecb5/Tela%20dos%20dados%20-%20Editados%202.png)
 
 D. Demonstração de Exclusão
-
+![image alt](https://github.com/caiosxlva/GerenciamentoDePessoas/blob/d6be21ce8bd1bee532c4047f9c47f7ba10fcecb5/Tela%20dos%20dados%20-%20Excluir.png)
